@@ -1,0 +1,27 @@
+
+*{
+    margin: 20px;
+    padding: 0;
+}
+body{
+    display: flex;
+
+}
+ .cover{
+    width: 900px;
+    height: 400px;
+   
+   
+ }
+ .box{
+    margin: 10px;
+    width: 800px;
+    height: 400px;
+  
+    
+   
+ }
+ img{
+    width: 300px;
+    height: 200px;
+ }

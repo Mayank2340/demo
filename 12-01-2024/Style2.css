@@ -1,0 +1,51 @@
+.header {
+  background-color:greenyellow;
+  text-align: center;
+  padding: 20px;
+}
+.container{
+	max-width: 1000px;
+	margin: auto;
+}
+img{
+	height: 150px;
+	width: 180px;
+}
+.parent{
+	margin: auto;
+   display: grid;
+   text-align: center;
+   justify-content: space-around;
+   align-items: center;
+   grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+ul{
+	display: grid;	
+	gap: 20px;
+}
+.section_2{
+	background-color: yellow;
+		padding: 20px;
+}
+.section_3{
+	background-color: orange;
+	padding: 20px;
+}
+.btn{
+	background-color: green;
+}
+.section_4{
+	background-color: lightblue;
+	padding: 20px;
+}
+.box{
+	border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+}
+.footer{
+	background-color: darkred;
+	padding: 20px;
+}
